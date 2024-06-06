@@ -4,9 +4,6 @@ int main(void)
 {
 
 
-	printf("code change\n");
-	printf("code change\n");
-	printf("code change\n");
-	printf("code change\n");
+	printf("云端删除测试");
 	return 0;
 }
