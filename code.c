@@ -4,6 +4,6 @@ int main(void)
 {
 
 
-	printf("云端删除测试");
+	printf("delete");
 	return 0;
 }
