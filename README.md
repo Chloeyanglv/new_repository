@@ -73,9 +73,9 @@ Markdown , 文本修饰语言 ， 用特殊符号修饰正文效果<br>
 
 ### 关键字查询：
 
-xx（python） awesome：查该标签下的 xx（Python）项目
-xx（python） tutorial：查询xx（python）资料、书籍、文档
-xx（socket）  sample：查询对应技术（socket）的代码样本
+xx（python） awesome：查该标签下的 xx（Python）项目<br>
+xx（python） tutorial：查询xx（python）资料、书籍、文档<br>
+xx（socket）  sample：查询对应技术（socket）的代码样本<br>
 
 ### GitHub三要素：
 
